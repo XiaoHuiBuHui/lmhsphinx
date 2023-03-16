@@ -28,20 +28,20 @@
 # html_static_path = ['_static']
 
 # ---------------------------自定义------------------------
+
 project = 'lmhsphinx'
 copyright = '2023, lmh'
 author = 'lmh'
 release = 'v2'
 
 # ---------支持md---------https://www.osgeo.cn/sphinx/usage/markdown.html#id7
-extensions = ['myst_parser']
+extensions = ['recommonmark', 'sphinx_markdown_tables']
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',
     '.md': 'markdown',
 }
-
-
 
 templates_path = ['_templates']
 exclude_patterns = []
