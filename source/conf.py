@@ -35,7 +35,7 @@ author = 'lmh'
 release = 'v2'
 
 # ---------支持md---------https://www.osgeo.cn/sphinx/usage/markdown.html#id7
-extensions = ['recommonmark']
+extensions = ['recommonmark', 'sphinx_markdown_tables']
 
 source_suffix = {
     '.rst': 'restructuredtext',
