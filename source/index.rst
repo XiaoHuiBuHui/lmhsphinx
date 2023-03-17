@@ -3,7 +3,7 @@ sphinx-quickstart on Thu Mar 16 16:03:40 2023.
 You can adapt this file completely to your liking, but it should at least
 contain the root `toctree` directive.
 
-Avata 开发者文档 V2 版本
+Avata 开发者文档 V1 版本
 =====================================
 
 .. toctree::
