@@ -44,9 +44,15 @@ source_suffix = {
 }
 
 templates_path = ['_templates']
+
 exclude_patterns = []
 
 language = 'zh_CN'
 
 html_theme = 'sphinx_rtd_theme'
+
 html_static_path = ['_static']
+
+github_doc_root = 'https://github.com/rtfd/recommonmark/tree/master/doc/'
+
+
