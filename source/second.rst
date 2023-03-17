@@ -2,7 +2,7 @@
 ================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
    :caption: 目录
 
    second1
