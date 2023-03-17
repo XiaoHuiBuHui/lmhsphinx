@@ -1,9 +1,10 @@
-Avata 开发者文档 V1 版本
+Avata 开发者文档 V2 版本
 =====================================
 
 .. toctree::
    :maxdepth: 4
    :caption: 目录
+
 
    first
    second
