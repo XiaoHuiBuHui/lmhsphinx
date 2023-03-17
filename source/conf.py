@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Avata'
-copyright = '2022, minghui'
+copyright = '2023, minghui'
 author = 'minghui'
 version = 'v2.0'
 release = 'v1.0'
